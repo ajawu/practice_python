@@ -3,4 +3,4 @@
 
 
 ### PROJECT EULER
-- [x] Multiples of 3 and 5
+- [x] Problem 1 *Multiples of 3 and 5*
