@@ -1,6 +1,6 @@
-## CODILITY TESTS
-[x]Binary Gap
+### CODILITY TESTS
+- [x]Binary Gap
 
 
-## PROJECT EULER
-[x] Multiples of 3 and 5
+### PROJECT EULER
+- [x] Multiples of 3 and 5
