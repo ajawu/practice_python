@@ -1,5 +1,5 @@
 ### CODILITY TESTS
-- [x]Binary Gap
+- [x] Binary Gap
 
 
 ### PROJECT EULER
